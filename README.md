@@ -1,9 +1,3 @@
-# React TypeScript Starter Pack
+# React Timer
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+Technologies used: React, HTML5, SASS
