@@ -1,4 +1,4 @@
-# React Timer
+# React Timer (no RxJS!)
 
 Technologies used: React, HTML5, SASS, BEM
 
